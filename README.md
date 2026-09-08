@@ -7,7 +7,7 @@ Altered walking mechanics in individuals with obesity can contribute to knee ost
 
 <img width="6418" height="2464" alt="image" src="https://github.com/user-attachments/assets/3e35540b-2c14-472f-a1f1-541b4d9e337a" />
 
-> **Note:** Experimental setup with motion capture system, and force plates while overground walking (Left), and walking with obstacle crossing (Right). For both walking conditions, each participant chose the preferred gait speed. A 9-camera motion capture system collected their full-body kinematics.
+> **Note:** Experimental setup with motion capture system, and force plates while overground walking (Left), and walking with obstacle crossing (Right).
 
 ## Repository Contents
 
@@ -17,7 +17,7 @@ Altered walking mechanics in individuals with obesity can contribute to knee ost
 | `Final_plot.ipynb` | Main script used to generate SPM and figures. |
 | `Data file folder` | CSV files date for the Final_plot.ipynb. |
 | `Figures folder` | Result figures |
-| `LICENSE` | Contains the Creative Commons license for this project. |
+
 
 ## Getting Started
 
@@ -40,5 +40,4 @@ Chi-Whan Choi
 
 This project is licensed under the MIT License 
 
-## Acknowledgments
 
