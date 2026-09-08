@@ -15,7 +15,7 @@ Altered walking mechanics in individuals with obesity can contribute to knee ost
 |---|---|
 | `README.md` | Provides information about the study, repository files, and research setup scheme. |
 | `Final_plot.ipynb` | Main script used to generate SPM and figures. |
-| `Data file folder` | CSV files date for the Final_plot.ipynb. |
+| `Data folder` | CSV files date for the Final_plot.ipynb. |
 | `Figures folder` | Result figures |
 
 
