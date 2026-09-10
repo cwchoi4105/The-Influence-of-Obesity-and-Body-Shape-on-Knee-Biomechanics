@@ -23,7 +23,6 @@ Altered walking mechanics in individuals with obesity can contribute to knee ost
 
 * Place the ipynb file in the Data folder and run the ipynb file.
 
-```
 
 ## Authors
 
